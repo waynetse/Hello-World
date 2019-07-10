@@ -41,6 +41,8 @@
 
 ## 機器 Machinery :
 
+* [木工機械 Woodworking Machines](ji-qi-machinery/mu-gong-ji-xie-woodworking-machines.md)
+
 ## 一般事項 General :
 
 * [地盤管理 Housekeeping](yi-ban-shi-xiang-general/untitled.md)
