@@ -1,9 +1,5 @@
 # 樓面邊緣／孔洞 Floor Edges/Openings
 
-![](../../.gitbook/assets/whatsapp-image-2019-07-08-at-1.52.23-pm.jpeg)
-
-![&#x524D;](../../.gitbook/assets/whatsapp-image-2019-07-08-at-1.48.15-pm.jpeg)
-
 {% tabs %}
 {% tab title="發現" %}
 架步入口處發現孔洞
