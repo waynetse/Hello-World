@@ -22,6 +22,10 @@
 
 * [其他 Others](ni-tu-gong-cheng-earthwork/untitled.md)
 
+## 起重機械及起重裝置 Lifting Appliances and Lifting Gear :
+
+* [其他Others](qi-zhong-ji-xie-ji-qi-zhong-zhuang-zhi-lifting-appliances-and-lifting-gear/qi-ta-others.md)
+
 ## 電力 Electricity :
 
 * [其他 Others](dian-li-electricity/untitled.md)
