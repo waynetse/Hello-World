@@ -33,6 +33,8 @@
 ## 防火措施 Fire Prevention :
 
 * [其他 Others](fang-huo-cuo-shi-fire-prevention/untitled.md)
+* [氣焊氣樽 Gas Welding Cylinders](fang-huo-cuo-shi-fire-prevention/qi-han-qi-zun-gas-welding-cylinders.md)
+* [消防器具 Fire Fighting Appliances](fang-huo-cuo-shi-fire-prevention/xiao-fang-qi-ju-fire-fighting-appliances.md)
 
 ## 健康 Health :
 
