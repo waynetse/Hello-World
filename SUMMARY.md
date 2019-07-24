@@ -28,6 +28,7 @@
 
 ## 電力 Electricity :
 
+* [焊機 Welding Machines](dian-li-electricity/han-ji-welding-machines.md)
 * [其他 Others](dian-li-electricity/untitled.md)
 
 ## 防火措施 Fire Prevention :
