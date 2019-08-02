@@ -29,6 +29,7 @@
 ## 電力 Electricity :
 
 * [焊機 Welding Machines](dian-li-electricity/han-ji-welding-machines.md)
+* [手提工具 Portable Tools](dian-li-electricity/shou-ti-gong-ju-portable-tools.md)
 * [其他 Others](dian-li-electricity/untitled.md)
 
 ## 防火措施 Fire Prevention :
